@@ -1,0 +1,12 @@
+.git
+.gitignore
+.DS_Store
+__pycache__/
+*.py[cod]
+*.sqlite
+*.db
+.venv/
+venv/
+.env
+.env.*
+static-collected/
